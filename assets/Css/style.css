@@ -1,0 +1,31 @@
+.jumbotron {
+    background-color: navy;
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+}
+body{
+    background-color: lightgray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.card{
+    display: inline-block;
+    width: 100%; 
+    margin-inline-start: 50px; 
+}
+.card-header{
+    background-color: navy;
+    color: white;
+}
+
+#footer{
+    background-color: navy;
+    font-size: 12px;
+    text-align: center;
+    padding: 10px;  
+    color:white;
+    width: auto;
+    bottom: 0;
+    position: relative;
+    margin-top: 30px;  
+}
